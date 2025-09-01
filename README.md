@@ -1,5 +1,5 @@
-## What's up everyone, I'm Arthur 👋
-## Welcome to my Github
+## What's up everyone 😎
+
 
 - 💻 I'm a developer with a passion for technology ...
 - 📝 I'm currently learning Javascript and Node.js ...
