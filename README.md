@@ -1,4 +1,4 @@
-## What's up everyone 👋
+## What's up everyone, I'm Arthur 👋
 ## Welcome to my Github
 
 - 💻 I'm a developer with a passion for technology ...
