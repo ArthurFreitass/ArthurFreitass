@@ -32,14 +32,6 @@ I'm a Systems Development student, always learning and exploring the world of pr
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -57,10 +49,3 @@ I'm a Systems Development student, always learning and exploring the world of pr
 
 <br/>
 <br/>
-
-
-### 📊 Estatísticas
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFreitass&show_icons=true&bg&theme=dracula&include_all_commits=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitass&_color=00000000&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
