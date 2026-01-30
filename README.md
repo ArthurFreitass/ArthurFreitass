@@ -62,3 +62,5 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <br/>
 <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
