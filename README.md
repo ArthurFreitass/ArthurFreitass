@@ -74,7 +74,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <hr>
 
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+<a href="https://www.linkedin.com/in/freitasrthur" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
