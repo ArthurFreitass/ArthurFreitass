@@ -18,14 +18,6 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ---
 
-### 🔗 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-
----
-
 ### 🛠️ Linguagens e Tecnologias
 
 <img 
@@ -80,4 +72,8 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 <br/>
 <br/>
 
-✅ **Construa uma vez, rode em qualquer lugar**
+<a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+*✅ Construa uma vez, rode em qualquer lugar*
