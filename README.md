@@ -72,8 +72,14 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 <br/>
 <br/>
 
+<hr>
+
 <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-*✅ Construa uma vez, rode em qualquer lugar*
+<br/>
+
+<p align="center"><em>✅ Construa uma vez, rode em qualquer lugar</em></p>
+
+<br/>
