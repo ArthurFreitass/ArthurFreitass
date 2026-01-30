@@ -80,6 +80,6 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <br/>
 
-<p align="center"><em>✅ Construa uma vez, rode em qualquer lugar</em></p>
+<p align="center"><em>✅ Construa uma vez, rode em qualquer lugar.</em></p>
 
 <br/>
