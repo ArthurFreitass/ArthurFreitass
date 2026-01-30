@@ -11,9 +11,14 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 - 💻 Foco em **Back-end** e lógica de sistemas  
 - ☕ Estudando **Java** e conceitos de programação orientada a objetos  
 - 🌐 Experiência com **JavaScript, HTML e CSS**  
-- 🚀 Buscando evoluir através de projetos práticos  
+- 🐧 Utilizo **Linux** como ambiente de desenvolvimento  
+- 🚀 Evoluindo através de projetos práticos  
 - 📫 Contato: **freitarthur176@gmail.com**  
 - 🌎 Localização: **Brasil**
+
+---
+
+✅ **Construa uma vez, rode em qualquer lugar**
 
 ---
 
@@ -58,6 +63,14 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <br/>
