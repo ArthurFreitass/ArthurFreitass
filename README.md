@@ -1,6 +1,4 @@
 # 👨‍💻 Arthur Freitas
-## Desenvolvedor Back-end em formação 🚀
-
 **`Back-end Developer | Java | Web`**
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
