@@ -9,7 +9,6 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 - 💻 Foco em **Back-end** e lógica de sistemas  
 - ☕ Estudando **Java** e conceitos de programação orientada a objetos  
 - 🌐 Experiência com **JavaScript, HTML e CSS**  
-- 🐧 Utilizo **Linux** como ambiente de desenvolvimento  
 - 🚀 Evoluindo através de projetos práticos  
 - 📫 Contato: **freitarthur176@gmail.com**  
 - 🌎 Localização: **Brasil**
