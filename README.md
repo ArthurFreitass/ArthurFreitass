@@ -5,6 +5,8 @@
 # 👨‍💻 Olá Dev's sou Arthur Freitas
 **`Back-end Developer | Java | Web`**
 
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
 Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e evoluir um pouco todos os dias.  
 Atualmente, estou aprofundando meus estudos em **Java**, lógica de programação e fundamentos do desenvolvimento web.
