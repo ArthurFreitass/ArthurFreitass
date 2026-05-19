@@ -15,7 +15,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ## Sobre mim
 
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="275" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 💻 Foco em **Back-end** e lógica de sistemas  
 - ☕ Estudando **Java** e conceitos de programação orientada a objetos  
