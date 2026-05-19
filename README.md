@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=115&section=header"/>
 
-<div align="center">
+<div align="justify">
 
 # 👨‍💻 Olá Dev's sou Arthur Freitas
 **`Back-end Developer | Java | Web`**
