@@ -27,8 +27,8 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freitasrthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasrthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFreitass&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFreitass&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff" height="165"/>
 </div>
 
 <div align="center">
