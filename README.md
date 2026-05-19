@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=115&section=header"/>
 
-<div align="justify">
+<div align="center">
 
-# 👨‍💻 Olá Dev's sou Arthur Freitas
+# 👨‍💻 Olá Dev's, sou Arthur Freitas
 **`Back-end Developer | Java | Web`**
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
@@ -23,6 +23,8 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 - 🚀 Evoluindo através de projetos práticos  
 - 📫 Contato: **freitarthur176@gmail.com**  
 - 🌎 Localização: **Brasil**
+
+<br/>
 
 ---
 
@@ -58,12 +60,14 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <div align="left">
 
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur) [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur)
+
+[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
 
 </div>
 
 <br/>
 
-<p align="center"><em>Construa uma vez, rode em qualquer lugar ☕ </em></p>
+<p align="center"><em>Construa uma vez, rode em qualquer lugar. ☕</em></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
