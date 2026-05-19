@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 Arthur Freitas
+# 👨‍💻 Olá Dev's sou Arthur Freitas
 **`Back-end Developer | Java | Web`**
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
