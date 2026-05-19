@@ -32,7 +32,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freitasrthur&bg_color=0d1117&color=cc0000&line=8b0000&point=ff3333&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFreitass&bg_color=0d1117&color=cc0000&line=8b0000&point=ff3333&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -57,6 +57,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 <div align="left">
 
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur)
+
 [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
 
 </div>
