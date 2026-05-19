@@ -26,7 +26,7 @@ localização: Brasil 🌎
 
 ---
 
-## `$ git log --stat` 📊
+## `$ git log --stat` 
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArthurFreitass&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
@@ -39,7 +39,7 @@ localização: Brasil 🌎
 
 ---
 
-## `$ ls ./tech-stack` 🛠️
+## `$ ls ./tech-stack` 
 
 <div align="center">
 
@@ -54,7 +54,7 @@ localização: Brasil 🌎
 
 ---
 
-## `$ cat ./contato.txt` 🔗
+## `$ cat ./contato.txt` 
 
 <div align="left">
 
