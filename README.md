@@ -1,10 +1,19 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=115&section=header"/>
+
+<div align="center">
+
 # 👨‍💻 Arthur Freitas
 **`Back-end Developer | Java | Web`**
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
-Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e evoluir um pouco todos os dias.
-
+Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e evoluir um pouco todos os dias.  
 Atualmente, estou aprofundando meus estudos em **Java**, lógica de programação e fundamentos do desenvolvimento web.
+
+</div>
+
+---
+
+## 🙋 Sobre mim
 
 - 💻 Foco em **Back-end** e lógica de sistemas  
 - ☕ Estudando **Java** e conceitos de programação orientada a objetos  
@@ -15,68 +24,45 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+## 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=freitasrthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasrthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff" height="165"/>
+</div>
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freitasrthur&bg_color=0d1117&color=cc0000&line=8b0000&point=ff3333&area=true&hide_border=true" width="100%"/>
+</div>
 
-<hr>
+---
 
-<a href="https://www.linkedin.com/in/freitasrthur" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05033" />
+<img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
+</div>
+
+---
+
+## 🔗 Contato
+
+<div align="left">
+
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur)
+[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
+
+</div>
 
 <br/>
 
 <p align="center"><em>✅ Construa uma vez, rode em qualquer lugar.</em></p>
 
-<br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
