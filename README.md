@@ -64,6 +64,6 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <br/>
 
-<p align="center"><em>✅ Construa uma vez, rode em qualquer lugar.</em></p>
+<p align="center"><em>Construa uma vez, rode em qualquer lugar ☕ </em></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
