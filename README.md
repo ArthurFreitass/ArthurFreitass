@@ -26,10 +26,13 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ## 📊 Estatísticas
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArthurFreitass&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArthurFreitass&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff" height="165"/>
+</div>
 
 <div align="center">
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=ArthurFreitass&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=ArthurFreitass&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFreitass&bg_color=0d1117&color=cc0000&line=8b0000&point=ff3333&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
