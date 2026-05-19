@@ -56,9 +56,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 <div align="left">
 
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur)
-
-[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur) [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
 
 </div>
 
