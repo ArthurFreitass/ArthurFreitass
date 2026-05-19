@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=115&section=header"/>
 
-<div align="center">
+<div align="justify">
 
 # 👨‍💻 Olá Dev's, sou Arthur Freitas
 **`Back-end Developer | Java | Web`**
@@ -15,7 +15,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ## 🙋 Sobre mim
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 💻 Foco em **Back-end** e lógica de sistemas  
 - ☕ Estudando **Java** e conceitos de programação orientada a objetos  
