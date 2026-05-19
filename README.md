@@ -1,34 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=115&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=header&text=Arthur%20Freitas&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Back-end%20Developer%20%7C%20Java%20%7C%20Web&descAlignY=85&descSize=16&descColor=ff6666&animation=twinkling&fontFamily=monospace"/>
 
 <div align="justify">
 
-# 👨‍💻 Olá Dev's, sou Arthur Freitas
-**`Back-end Developer | Java | Web`**
-
-Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end** e construção de aplicações sólidas, organizadas e escaláveis.  
-Gosto de entender **como as coisas funcionam por trás**, escrever código limpo e evoluir um pouco todos os dias.  
-Atualmente, estou aprofundando meus estudos em **Java**, lógica de programação e fundamentos do desenvolvimento web.
+> `> Estudante de Desenvolvimento de Sistemas — foco em back-end, aplicações sólidas e código limpo.`  
+> `> Entendendo como as coisas funcionam por trás. Evoluindo um pouco todos os dias.`  
+> `> Stack atual: Java · JavaScript · HTML · CSS`
 
 </div>
 
 ---
 
-## Sobre mim
+## `$ whoami`
 
 <img align="right" alt="Coding" width="272" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 💻 Foco em **Back-end** e lógica de sistemas  
-- ☕ Estudando **Java** e conceitos de programação orientada a objetos  
-- 🌐 Experiência com **JavaScript, HTML e CSS**  
-- 🚀 Evoluindo através de projetos práticos  
-- 📫 Contato: **freitarthur176@gmail.com**  
-- 🌎 Localização: **Brasil**
+```yaml
+foco:        Back-end & lógica de sistemas
+estudando:   Java · OOP · fundamentos web
+experiência: JavaScript · HTML · CSS
+contato:     freitarthur176@gmail.com
+localização: Brasil 🌎
+```
 
 <br/>
 
 ---
 
-## 📊 Estatísticas
+## `$ git log --stat` 📊
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArthurFreitass&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff" height="165"/>
@@ -41,7 +39,7 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## `$ ls ./tech-stack` 🛠️
 
 <div align="center">
 
@@ -56,18 +54,17 @@ Atualmente, estou aprofundando meus estudos em **Java**, lógica de programaçã
 
 ---
 
-## 🔗 Contato
+## `$ cat ./contato.txt` 🔗
 
 <div align="left">
 
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/freitasrthur)
-
 [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:freitarthur176@gmail.com)
 
 </div>
 
 <br/>
 
-<p align="center"><em>Construa uma vez, rode em qualquer lugar. ☕</em></p>
+<p align="center"><code>// Construa uma vez, rode em qualquer lugar. ☕</code></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
