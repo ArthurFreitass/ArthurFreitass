@@ -12,7 +12,9 @@
 
 ## `$ whoami`
 
-<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```yaml
 foco:        Back-end & lógica de sistemas
@@ -22,7 +24,14 @@ contato:     freitarthur176@gmail.com
 localização: Brasil 🌎
 ```
 
-<br/>
+</td>
+<td valign="top" align="center" width="45%">
+
+<img alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,7 +78,8 @@ localização: Brasil 🌎
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
 
-$ ./snake.exe 🐍
+## `$ ./snake.exe` 🐍
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurFreitass/ArthurFreitass/output/github-contribution-grid-snake-dark.svg"/>
